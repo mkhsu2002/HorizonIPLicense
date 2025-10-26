@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://horizonip.icareu.tw/sitemap.xml
