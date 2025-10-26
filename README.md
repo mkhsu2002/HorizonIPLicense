@@ -68,4 +68,4 @@ npm run deploy
 
 ## 授權
 
-© 2024 Horizon Outdoor. 保留所有權利。
+© 2024 Horizon Outdoor. 保留所有權利。# Force GitHub Pages rebuild
